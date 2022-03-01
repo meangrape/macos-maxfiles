@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.startup.limit.maxfiles</string>
+    <string>com.meangrape.limit.maxfiles</string>
     <key>LaunchOnlyOnce</key>
     <true/>
     <key>ProgramArguments</key>
